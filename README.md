@@ -15,6 +15,7 @@ Uma wiki interativa do universo **One Piece**, consumindo a [api-onepiece.com](h
 
 wireframe
 <img width="769" height="528" alt="{B7D5961A-ECBE-4A05-B6CD-D28F1433C291}" src="https://github.com/user-attachments/assets/3ca59b85-e89f-4b32-8d84-d081bad53e29" />
+<img width="1152" height="648" alt="Sem título" src="https://github.com/user-attachments/assets/2d941f1f-7e9c-4e1a-8eab-8c4804d9ec51" />
 
 
 
